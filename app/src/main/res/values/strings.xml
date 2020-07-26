@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contoh Intent</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="ini_adalah_activity_pindah">Ini adalah Activity Pindah</string>
+    <string name="pindah_activity_dengan_data">Pindah Activity dengan Data</string>
+    <string name="data_diterima">Data diterima</string>
+    <string name="panggilan_telepon">Panggilan Telepon</string>
+</resources>
